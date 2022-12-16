@@ -1,0 +1,17 @@
+.DS_Store
+*.synctex(busy)
+*.aux
+*.bbl
+*.blg
+*.log
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.out
+*.toc
+需求工程软件建模与分析.pdf
+商业模式新生代经典重译版.pdf
+2020 PPT/*
+2020-Demand-and-business-model-innovation/*
+商业模式.pdf
+需求工程.pdf
